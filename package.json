@@ -1,0 +1,34 @@
+{
+  "name": "react-native-alibaba-fonts",
+  "version": "0.0.1",
+  "description": "阿里巴巴字体在react-native中的应用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaixiaoqu/react-native-alibaba-fonts.git",
+    "baseUrl": "https://github.com/zaixiaoqu/react-native-alibaba-fonts"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-alibaba-fonts",
+    "阿里巴巴",
+    "阿里巴巴字体"
+  ],
+  "author": {
+    "name": "yusheng",
+    "email": "don@zaixiaoqu.cn"
+  },
+  "license": "MIT",
+  "rnpm": {
+    "assets": [
+      "Fonts"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/zaixiaoqu/react-native-alibaba-fonts/issues"
+  },
+  "homepage": "https://github.com/zaixiaoqu/react-native-alibaba-fonts.git#readme"
+}
